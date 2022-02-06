@@ -1,0 +1,83 @@
+[
+	{
+		"title": "Power Rangers API",
+		"description": "API para consulta de información de la serie de televisión Power Rangers (por ejemplo: actores, temporadas, personajes, rangers, zords, villanos).",
+		"urlImage": "assets/img/portfolio/powerrangersapi.png",
+		"enable": true,
+		"skills": [
+			{
+				"title": "PHP",
+				"url": "https://www.php.net/manual/es/intro-whatis.php",
+				"icon": "assets/img/logos/php.png"
+			},
+			{
+				"title": "CodeIgniter 4",
+				"url": "https://codeigniter.com/",
+				"icon": "assets/img/logos/codeigniter.png"
+			},
+			{
+				"title": "MySQL",
+				"url": "https://www.mysql.com/",
+				"icon": "assets/img/logos/mysql.png"
+			}
+		],
+		"githubUrl": "https://github.com/cesargomez05/powerrangersapi"
+	},
+	{
+		"title": "SiSGo",
+		"description": "Aplicación web para la gestión de información y seguimiento a graduados de una institución de educación superior en Colombia.",
+		"urlImage": "assets/img/portfolio/sisgo.png",
+		"enable": false,
+		"skills": [
+			{
+				"title": "PHP",
+				"url": "https://www.php.net/manual/es/intro-whatis.php",
+				"icon": "assets/img/logos/php.png"
+			},
+			{
+				"title": "Laravel",
+				"url": "https://laravel.com/",
+				"icon": "assets/img/logos/laravel.png"
+			},
+			{
+				"title": "Vue.js",
+				"url": "https://vuejs.org/",
+				"icon": "assets/img/logos/vuejs.png"
+			},
+			{
+				"title": "MySQL",
+				"url": "https://www.mysql.com/",
+				"icon": "assets/img/logos/mysql.png"
+			}
+		],
+		"githubUrl": "https://github.com/cesargomez05/sisgo"
+	},
+	{
+		"title": "Requi",
+		"description": "Lorem lipsum",
+		"urlImage": "assets/img/portfolio/requi.png",
+		"enable": false,
+		"skills": [
+			{
+				"title": "React",
+				"url": "https://es.reactjs.org/",
+				"icon": "assets/img/logos/react.png"
+			}
+		],
+		"githubUrl": "https://github.com/cesargomez05/requi"
+	},
+	{
+		"title": "SchoolAPI",
+		"description": "API para para la gestión de cursos en línea (basado en la plataforma Platzi).",
+		"urlImage": "assets/img/portfolio/powerrangersapi.png",
+		"enable": true,
+		"skills": [
+			{
+				"title": "PHP",
+				"url": "https://www.php.net/manual/es/intro-whatis.php",
+				"icon": "assets/img/logos/php.png"
+			}
+		],
+		"githubUrl": "https://github.com/cesargomez05/schoolAPI"
+	}
+]

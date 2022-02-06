@@ -1,0 +1,34 @@
+[
+    {
+		"title": "JavaScript",
+		"percent": 60
+	},
+	{
+		"title": "PHP",
+		"percent": 55
+	},
+	{
+		"title": "MySQL",
+		"percent": 55
+	},
+	{
+	    "title": "Java",
+	    "percent": 45
+	},
+	{
+	    "title": "Node.js",
+	    "percent": 45
+	},
+	{
+		"title": "MongoDB",
+		"percent": 40
+	},
+	{
+	    "title": "PostgreSQL",
+	    "percent": 30
+	},
+	{
+	    "title": "Python",
+	    "percent": 20
+	}
+]
